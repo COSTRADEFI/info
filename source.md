@@ -1,3 +1,7 @@
+We will try to use most of these formula, for generating a random index, calculate its volatility, issue options on this index.
+Writer of these options is a vault.
+
+
 # Box muller [[1]](#1)
 Given two random numbers from the uniform distribution: $U_0$ and $U_1$, which belong to the interval $(0,1)$, then $Z_0$ and $Z_1$ following the normal distribution can be calculated by
 
